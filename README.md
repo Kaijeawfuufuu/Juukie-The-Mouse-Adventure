@@ -2,10 +2,10 @@
 Story about young explorer named Juukie!! accidentally fell into a cave — a gateway to another world inhabited by a fierce tribe of winged mice. Now trapped, Juukie must find a way to fly and escape this mysterious underground realm.  
 หนูนักสำรวจที่มีชื่อว่า Juukie ที่ดันเกิดอุบัติเหตุขึ้นทำให้ร่วงลงมาตกในถ้ำที่เป็นโลกอีกใบของเหล่าเผ่าหนูมีปีก ซึ่งเป็น1ในเผ่าที่มีความดุร้าย Juukie ต้องบินไปหาทางออกให้ได้
 
-Genre game : Endless Runner
-Platform : Mobile and PC
+Genre game : Endless Runner  
+Platform : Mobile and PC  
 Game concept : The player takes on the role of a flying mouse, navigating through the cave while dodging obstacles, bats, and various tribes that dwell within.  
-ผู้เล่นจะได้รับบทบาทเป็นหนูนักบินที่ต้องบินหลบอุปสรรคจากค้างคาว เผ่าต่างๆที่อาศัยในถ้ำ
+ผู้เล่นจะได้รับบทบาทเป็นหนูนักบินที่ต้องบินหลบอุปสรรคจากค้างคาว เผ่าต่างๆที่อาศัยในถ้ำ  
 
 Game Features :
   Player | ผู้เล่นจะบินเคลื่อนที่ไปข้างหน้าโดยอัตโนมัติ และ ผู้เล่นสามารถควบคุมการขึ้นได้ปุ่มลูกศรชี้ขึ้นสีเขียวด้านซ้าย และเคลื่อนที่ลงได้จากปุ่มชี้ลงสีแดงด้านขวา
