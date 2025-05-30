@@ -1,5 +1,5 @@
 # Juukie-The-Mouse-Adventure
-Story about young explorer named Juukie!! accidentally fell into a cave — a gateway to another world inhabited by a fierce tribe of winged mice. Now trapped, Juukie must find a way to fly and escape this mysterious underground realm
+Story about young explorer named Juukie!! accidentally fell into a cave — a gateway to another world inhabited by a fierce tribe of winged mice. Now trapped, Juukie must find a way to fly and escape this mysterious underground realm. 
 หนูนักสำรวจที่มีชื่อว่า Juukie ที่ดันเกิดอุบัติเหตุขึ้นทำให้ร่วงลงมาตกในถ้ำที่เป็นโลกอีกใบของเหล่าเผ่าหนูมีปีก ซึ่งเป็น1ในเผ่าที่มีความดุร้าย Juukie ต้องบินไปหาทางออกให้ได้
 
 Genre game : Endless Runner
