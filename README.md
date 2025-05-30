@@ -4,6 +4,7 @@ Story about young explorer named Juukie!! accidentally fell into a cave — a ga
 
 Genre game : Endless Runner  
 Platform : Mobile and PC  
+
 Game concept :  
 The player takes on the role of a flying mouse, navigating through the cave while dodging obstacles, bats, and various tribes that dwell within.  
 ผู้เล่นจะได้รับบทบาทเป็นหนูนักบินที่ต้องบินหลบอุปสรรคจากค้างคาว เผ่าต่างๆที่อาศัยในถ้ำ  
